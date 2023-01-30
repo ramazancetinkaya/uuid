@@ -1,4 +1,4 @@
-# PHP-UUIDGenerator
+# Universally Unique Identifier version 4
 
 UUID v4 (Universally Unique Identifier version 4) is a type of identifier that is generated randomly, with the intent of creating a unique identifier that can be used across different systems and environments. It is commonly used to identify resources, such as database records or filenames, in a unique and unambiguous manner. The UUID v4 specification defines a format for the identifier that includes a series of hexadecimal numbers separated by hyphens. The use of UUIDs can help prevent naming conflicts and provide a way to identify resources consistently and reliably even in distributed systems.
 
