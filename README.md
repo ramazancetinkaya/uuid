@@ -12,7 +12,7 @@ echo $uuid;
 ```
 
 This creates an instance of the class and calls the **generate** method and assigns the output to a variable $uuid and prints it.
-This is a simple class for generating UUID v4, it's cryptographically secure and suitable for most cases, in case you need to use a more secure method you can use more advanced libraries like ramsey/uuid
+This is a simple class for generating UUID v4, it's cryptographically secure and suitable for most cases, in case you need to use a more secure method you can use more advanced libraries like **ramsey/uuid**.
 
 ### Authors
 
