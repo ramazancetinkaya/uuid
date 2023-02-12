@@ -43,7 +43,7 @@ UUID::validate('invalid-uuid-format'); // Throws an InvalidArgumentException
 
 ## Installation
 
-The preferred method of installation is via Composer. 
+The preferred method of installation is via [Composer](https://getcomposer.org/).
 
 Run the following command to install the package:
 ```bash
