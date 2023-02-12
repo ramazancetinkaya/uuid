@@ -65,13 +65,6 @@ Before submitting your changes, please make sure to test your code thoroughly an
 
 Thank you for your interest in contributing to this project!
 
-## Support
-If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
-
-###
-
-Note that while I am happy to help and provide support, I cannot guarantee immediate resolution of all issues. If you need more immediate support, you may want to consider reaching out to a professional services provider for assistance.
-
 ## Code of Conduct
 We are committed to creating a friendly and inclusive environment for all contributors and users of this repository. To help achieve this goal, we have adopted a Code of Conduct that outlines our expectations for behavior as well as the consequences for unacceptable behavior.
 
@@ -86,6 +79,13 @@ If you encounter a situation that you feel is not aligned with our Code of Condu
 ###
 
 Together, let's create a positive and welcoming community!
+
+## Support
+If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
+
+###
+
+Note that while I am happy to help and provide support, I cannot guarantee immediate resolution of all issues. If you need more immediate support, you may want to consider reaching out to a professional services provider for assistance.
 
 ## Authors
 
