@@ -72,6 +72,21 @@ If you encounter any issues while using this class, or if you have any questions
 
 Note that while I am happy to help and provide support, I cannot guarantee immediate resolution of all issues. If you need more immediate support, you may want to consider reaching out to a professional services provider for assistance.
 
+## Code of Conduct
+We are committed to creating a friendly and inclusive environment for all contributors and users of this repository. To help achieve this goal, we have adopted a Code of Conduct that outlines our expectations for behavior as well as the consequences for unacceptable behavior.
+
+###
+
+We strongly encourage all contributors and users to read and follow the Code of Conduct, which can be found in the CODE_OF_CONDUCT.md file. By participating in this community, you agree to abide by its rules and guidelines.
+
+###
+
+If you encounter a situation that you feel is not aligned with our Code of Conduct, please report it by contacting the repository owner. We will work to address the situation promptly and respectfully.
+
+###
+
+Together, let's create a positive and welcoming community!
+
 ## Authors
 
 Ramazan Çetinkaya
