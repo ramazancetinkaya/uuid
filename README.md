@@ -6,7 +6,9 @@
 
 ###
 
-:star: Star us on GitHub — it motivates us a lot!
+<p align="center">
+    :star: Star us on GitHub — it motivates us a lot!
+</p>
 
 ## What is a UUID?
 A universally unique identifier (UUID) is a string of characters that is used to identify a resource or record in a database or software system. UUIDs are typically generated using a combination of the current time, the system's MAC address, and random numbers.
