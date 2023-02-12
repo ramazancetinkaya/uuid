@@ -1,6 +1,8 @@
-# UUID (Universally Unique Identifier)
+<h1 align="center">ramazancetinkaya/uuid</h1>
 
-A simple and reliable UUID class for PHP, with a focus on quality, readability, and standards compliance.
+<p align="center">
+    <strong>A simple and reliable UUID class for PHP, with a focus on quality, readability, and standards compliance.</strong>
+</p>
 
 ###
 
@@ -39,9 +41,10 @@ UUID::validate('invalid-uuid-format'); // Throws an InvalidArgumentException
 
 ## Installation
 
-You can install the UUID class using Composer:
+The preferred method of installation is via Composer. 
 
-```composer
+Run the following command to install the package:
+```bash
 composer require ramazancetinkaya/uuid
 ```
 
