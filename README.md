@@ -1,6 +1,6 @@
 # UUID (Universally Unique Identifier)
 
-⭐ Star us on GitHub — it motivates us a lot!
+:star: Star us on GitHub — it motivates us a lot!
 
 ###
 
