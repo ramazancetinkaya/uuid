@@ -1,10 +1,10 @@
 # UUID (Universally Unique Identifier)
 
-:star: Star us on GitHub — it motivates us a lot!
+A simple and reliable UUID class for PHP, with a focus on quality, readability, and standards compliance.
 
 ###
 
-A simple and reliable UUID class for PHP, with a focus on quality, readability, and standards compliance.
+:star: Star us on GitHub — it motivates us a lot!
 
 ## What is a UUID?
 A universally unique identifier (UUID) is a string of characters that is used to identify a resource or record in a database or software system. UUIDs are typically generated using a combination of the current time, the system's MAC address, and random numbers.
