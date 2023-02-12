@@ -1,5 +1,9 @@
 # UUID (Universally Unique Identifier)
 
+⭐ Star us on GitHub — it motivates us a lot!
+
+###
+
 A simple and reliable UUID class for PHP, with a focus on quality, readability, and standards compliance.
 
 ## What is a UUID?
