@@ -17,9 +17,23 @@ A universally unique identifier (UUID) is a string of characters that is used to
 
 UUIDs are useful because they are unique across all systems and all time, which means they can be used to identify resources or records in a way that is independent of the database or software system they are stored in. This makes UUIDs useful for things like database primary keys, unique URLs, or as part of a larger identifier scheme.
 
-## Universally Unique Identifier version 4
+## Understanding UUID Versions
+UUID, or universally unique identifier, is a string of characters used to identify a resource. There are several versions of UUIDs, each with its own structure and purpose.
 
-UUID v4 (Universally Unique Identifier version 4) is a type of identifier that is generated randomly, with the intent of creating a unique identifier that can be used across different systems and environments. It is commonly used to identify resources, such as database records or filenames, in a unique and unambiguous manner. The UUID v4 specification defines a format for the identifier that includes a series of hexadecimal numbers separated by hyphens. The use of UUIDs can help prevent naming conflicts and provide a way to identify resources consistently and reliably even in distributed systems.
+### UUID Version 1 (Time-Based)
+UUID Version 1 uses the current timestamp and the MAC address of the generating device to create a UUID. This results in a UUID that is unique, but not completely random, as the same MAC address will always generate the same UUID for a given timestamp.
+
+### UUID Version 2 (DCE Security)
+UUID Version 2 was created for use in the Distributed Computing Environment (DCE) security protocol. It is similar to UUID Version 1, but includes a domain identifier to allow for multiple independent name spaces. This version is not commonly used.
+
+### UUID Version 3 (Name-Based, MD5)
+UUID Version 3 uses a hash of a namespace identifier and a name to generate a UUID. The hash function used is MD5, which is a widely-used cryptographic hash function. This version is useful for creating UUIDs based on human-readable names, while still ensuring that they are unique.
+
+### UUID Version 4 (Random)
+UUID Version 4 is generated purely randomly and is the most commonly used version. This version provides the greatest degree of randomness and is therefore the most suitable for most use cases.
+
+### UUID Version 5 (Name-Based, SHA-1)
+UUID Version 5 is similar to UUID Version 3, but uses the SHA-1 hash function instead of MD5. SHA-1 is a more secure hash function than MD5, making this version suitable for use in security-sensitive applications.
 
 ## Features
 
