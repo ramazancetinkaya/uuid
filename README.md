@@ -18,7 +18,7 @@ A universally unique identifier (UUID) is a string of characters that is used to
 UUIDs are useful because they are unique across all systems and all time, which means they can be used to identify resources or records in a way that is independent of the database or software system they are stored in. This makes UUIDs useful for things like database primary keys, unique URLs, or as part of a larger identifier scheme.
 
 ## Understanding UUID Versions
-UUID, or universally unique identifier, is a string of characters used to identify a resource. There are several versions of UUIDs, each with its own structure and purpose.
+There are several versions of UUIDs, each with its own structure and purpose.
 
 ### UUID Version 1 (Time-Based)
 UUID Version 1 uses the current timestamp and the MAC address of the generating device to create a UUID. This results in a UUID that is unique, but not completely random, as the same MAC address will always generate the same UUID for a given timestamp.
