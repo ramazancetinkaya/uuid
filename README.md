@@ -5,13 +5,13 @@ A simple and reliable UUID class for PHP, with a focus on quality, readability, 
 ## What is a UUID?
 A universally unique identifier (UUID) is a string of characters that is used to identify a resource or record in a database or software system. UUIDs are typically generated using a combination of the current time, the system's MAC address, and random numbers.
 
-# Universally Unique Identifier version 4
-
-UUID v4 (Universally Unique Identifier version 4) is a type of identifier that is generated randomly, with the intent of creating a unique identifier that can be used across different systems and environments. It is commonly used to identify resources, such as database records or filenames, in a unique and unambiguous manner. The UUID v4 specification defines a format for the identifier that includes a series of hexadecimal numbers separated by hyphens. The use of UUIDs can help prevent naming conflicts and provide a way to identify resources consistently and reliably even in distributed systems.
-
 ###
 
 UUIDs are useful because they are unique across all systems and all time, which means they can be used to identify resources or records in a way that is independent of the database or software system they are stored in. This makes UUIDs useful for things like database primary keys, unique URLs, or as part of a larger identifier scheme.
+
+# Universally Unique Identifier version 4
+
+UUID v4 (Universally Unique Identifier version 4) is a type of identifier that is generated randomly, with the intent of creating a unique identifier that can be used across different systems and environments. It is commonly used to identify resources, such as database records or filenames, in a unique and unambiguous manner. The UUID v4 specification defines a format for the identifier that includes a series of hexadecimal numbers separated by hyphens. The use of UUIDs can help prevent naming conflicts and provide a way to identify resources consistently and reliably even in distributed systems.
 
 ## Features
 
