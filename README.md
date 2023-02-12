@@ -35,6 +35,9 @@ UUID Version 4 is generated purely randomly and is the most commonly used versio
 ### UUID Version 5 (Name-Based, SHA-1)
 UUID Version 5 is similar to UUID Version 3, but uses the SHA-1 hash function instead of MD5. SHA-1 is a more secure hash function than MD5, making this version suitable for use in security-sensitive applications.
 
+### Conclusion
+Each of the different UUID versions has its own strengths and weaknesses, and the best version to use will depend on the specific requirements of the application. When selecting a UUID version, it is important to consider the level of uniqueness and randomness required, as well as the security implications of the chosen hash function.
+
 ## Features
 
 - Generates version 4 (random) UUIDs.
