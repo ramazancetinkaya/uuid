@@ -1,0 +1,19 @@
+{
+    "name": "ramazancetinkaya/uuid",
+    "description": "A simple and reliable UUID class for PHP",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ramazan Çetinkaya"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "UUID\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
